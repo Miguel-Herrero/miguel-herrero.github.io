@@ -32,7 +32,6 @@ navbar-links:
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 #avatar: "/img/avatar-icon.png"
-avatar: "https://s.gravatar.com/avatar/4121b2cbf65296d5df5ba14b49693e97?s=80"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -73,20 +72,20 @@ author:
 social-network-links:
   rss: true
   email: "miguel.herrerobaena@gmail.com"
-#  facebook: daattali
+  facebook: Miguel.HerreroBaena
   github: miguel-herrero
-#  twitter: daattali
+  twitter: gr0uch0mars
 #  reddit: yourname
 #  google-plus: +DeanAttali
   linkedin: miguelherrerobaena
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "4814705/miguel"
 #  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
+  instagram: miguelherrerobaena
+  youtube: user/mherrerobaena
+  spotify: gr0uch0mars
 #  telephone: +14159998888
-#  steam: deanat78
+  steam: gr0uch0mars
 #  twitch: yourname
 #  yelp: yourname
 
